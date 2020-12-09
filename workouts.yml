@@ -1,0 +1,29 @@
+selectedWorkout: INTERMEDIATE
+minutesBetweenWorkouts: 30
+
+BEGINNER: 
+  - 'Plank | 30s'
+  - 'Squat | 15x'
+  - 'Crunch | 10x'
+  - 'Lunges | 5x Each Side'
+  - 'Incline Push Up | 10x' 
+  - 'Dips | 10x'
+  - 'Bridges | 10x'
+
+INTERMEDIATE1: 
+  - 'Y-Squat | 10x'
+  - 'Pushups | 10x'
+  - 'Cross Crawl | 10x Each Side'
+  - 'Mountain Climber | 10x Each Side'
+  - 'Wall Squat | 60s Hold'
+  - 'Split Squat | 10x Each Side'
+  - 'Plank | 45s Hold'
+
+MITCHELLS_CHOICE:
+  - 'Archer Pushups | 5x Each Side'
+  - 'Diamond Pushups | 10x'
+  - 'Pistol Squats | 5x Each Side'
+  - 'Clap Pushups | 10x'
+  - 'Shrimp Squats | 10x Each Side'
+  - 'Plank | 1m Hold'
+  - 'Burpee | 10x'
